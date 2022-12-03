@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @divyanshpatwari
+- 👀 I’m interested in Big Data Engineering
+- 🌱 I’m currently learning Data Streaming (Deep Dive)
+- 📫 How to reach me -> divyanshpatwari36@gmail.com
+- Check my repository for glimpse of my sample works
